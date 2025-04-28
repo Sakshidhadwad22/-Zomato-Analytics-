@@ -1,1 +1,1 @@
-# -Zomato-Analytics-
+# Zomato Analytics
